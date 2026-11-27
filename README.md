@@ -1,5 +1,7 @@
 # TRUSTA ETF 집필 인계
 
+**[만화·시각자료 이미지 바둑판 24장](gallery.md)**
+
 | **[GitHub 원고 바둑판](catalog.md)** | **[원고 목차](project/목차.md)** | **[진행표](project/진행표.md)** |
 |---|---|---|
 | **[재사용 프롬프트](prompts/reuse.md)** | **[낭독 원문](project/낭독본문)** | **[캐릭터와 참조](project/집필인계)** |

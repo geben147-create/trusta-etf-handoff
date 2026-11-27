@@ -1,6 +1,16 @@
 # 원고 바둑판
 
-[펼쳐 보는 프롬프트](README.md) · [로컬 HTML 바둑판](index.html) · [음성·영상 다운로드](media.md)
+[펼쳐 보는 프롬프트](README.md) · [이미지 바둑판 24장](gallery.md) · [음성·영상 다운로드](media.md)
+
+## 만화·시각자료 미리보기
+
+| 미리보기 | 미리보기 | 미리보기 |
+|---|---|---|
+| [![인덱스펀드와 ETF, 한 상품에 이름이 둘인 이유](previews/ep002.jpg)](previews/ep002.jpg)<br>[EP002 · 인덱스펀드와 ETF, 한 상품에 이름이 둘인 이유](project/EP002.md) | [![ETF에 넣은 10만 원 중 한 회사에 걸린 돈은 얼마일까?](previews/ep001.jpg)](previews/ep001.jpg)<br>[EP001 · ETF에 넣은 10만 원 중 한 회사에 걸린 돈은 얼마일까?](project/EP001.md) | [![한 상품인데 이름이 왜 둘일까? SOXL의 정식명·티커로 다시 보는 미국 ETF 순매수](previews/ep061.jpg)](previews/ep061.jpg)<br>[EP061 · 한 상품인데 이름이 왜 둘일까? SOXL의 정식명·티커로 다시 보는 미국 ETF 순매수](project/EP061.md) |
+
+[이미지 24장 모두 보기](gallery.md)
+
+## 전체 원고
 
 | 원고 | 원고 | 원고 |
 |---|---|---|
