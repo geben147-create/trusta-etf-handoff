@@ -1,6 +1,6 @@
 # 원고 바둑판
 
-[펼쳐 보는 프롬프트](README.md) · [로컬 HTML 바둑판](index.html)
+[펼쳐 보는 프롬프트](README.md) · [로컬 HTML 바둑판](index.html) · [음성·영상 다운로드](media.md)
 
 | 원고 | 원고 | 원고 |
 |---|---|---|
