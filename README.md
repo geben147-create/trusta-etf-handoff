@@ -6,7 +6,7 @@
 
 2026-11-27 스냅샷. 전체 본문 198편. 캐나다 담당 108편이 낭독 검산 통과. 지정 Qwen 전체 음성 10편.
 
-[대용량 결과물 릴리스](../../releases/tag/snapshot-2026-11-27)의 분할 파일을 모두 내려받고 순서대로 합쳐 `project`에 풉니다. 운영 로그, 캐시와 실행용 셸은 제외했습니다. GitHub의 HTML 파일 화면에서는 로컬로 복제한 다음 브라우저로 열어 바둑판을 사용합니다.
+[대용량 결과물 릴리스](https://github.com/geben147-create/trusta-etf-handoff/releases/tag/snapshot-2026-11-27)의 분할 파일을 모두 내려받고 순서대로 합쳐 `project`에 풉니다. 운영 로그, 캐시와 실행용 셸은 제외했습니다. GitHub의 HTML 파일 화면에서는 로컬로 복제한 다음 브라우저로 열어 바둑판을 사용합니다.
 
 ```bash
 sha256sum -c SHA256SUMS
